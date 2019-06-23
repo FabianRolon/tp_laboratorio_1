@@ -24,3 +24,29 @@
 	"utn.h"
 	"ArrayEmployees.h"
 
+1560568382 source:/home/fabianrolon/Documentos/tp_laboratorio_1/tp2_laboratorio_1/ArrayEmployees.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1560568382 /home/fabianrolon/Documentos/tp_laboratorio_1/tp2_laboratorio_1/utn.h
+
+1560568382 /home/fabianrolon/Documentos/tp_laboratorio_1/tp2_laboratorio_1/ArrayEmployees.h
+
+1560568382 source:/home/fabianrolon/Documentos/tp_laboratorio_1/tp2_laboratorio_1/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"ArrayEmployees.h"
+	<math.h>
+
+1560568382 source:/home/fabianrolon/Documentos/tp_laboratorio_1/tp2_laboratorio_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
